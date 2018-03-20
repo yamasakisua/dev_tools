@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///Users/yamasaki/Dropbox/private/recruit/shoumei/4961521%E3%83%A4%E3%83%9E%E3%82%B5%E3%82%AD%E3%82%B7%E3%83%A5%E3%82%A6%E3%83%98%E3%82%A4%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC6.jpg" added="2017-10-23T07:57:28Z" modified="2017-10-23T08:01:31Z" visited="2017-10-23T07:57:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GIMP (GNU Image Manipulation Program)" exec="&apos;GIMP-bin %u&apos;" modified="2017-10-23T07:57:28Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-10-23T08:01:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///Users/yamasaki/Dropbox/private/recruit/shoumei/test.jpg" added="2017-10-23T08:00:19Z" modified="2017-10-23T08:00:24Z" visited="2017-10-23T08:00:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GIMP (GNU Image Manipulation Program)" exec="&apos;GIMP-bin %u&apos;" modified="2017-10-23T08:00:19Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-10-23T08:00:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

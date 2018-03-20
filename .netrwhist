@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/yamasaki/Documents/lecture/M1/pro2TA/proc/no7a/61417893_三好　克弥/pro2-7'
+let g:netrw_dirhist_2='/Users/yamasaki/Documents/lecture/M1/pro2TA/proc/no8b/61417893_三好　克弥/pro2-8'
+let g:netrw_dirhist_3='/Users/yamasaki/Documents/lecture/M1/pro2TA/test/no9/script-9b-2-c/test/9-10'
+let g:netrw_dirhist_4='/Users/yamasaki/Documents/lecture/M1/pro2TA/proc/no10/61317213_箱田　尚大/quiz10'
+let g:netrw_dirhist_5='/Users/yamasaki/Documents/lecture/M1/pro2TA/proc/no9a/script-9b-1/test'
